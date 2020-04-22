@@ -1,0 +1,10 @@
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\bin\Debug\Homework_2_Task1.exe.config
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\bin\Debug\Homework_2_Task1.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\bin\Debug\Homework_2_Task1.pdb
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.csprojAssemblyReference.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.Form1.resources
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.Properties.Resources.resources
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.csproj.GenerateResource.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.csproj.CoreCompileInputs.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\Homework_2\Homework_2_Task1\obj\Debug\Homework_2_Task1.pdb
