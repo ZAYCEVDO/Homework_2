@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing.Text;
 
 namespace Homework_2_Task1
 {
@@ -16,6 +17,7 @@ namespace Homework_2_Task1
 		public Form1()
 		{
 			InitializeComponent();
+			fontsProjects();
 			_chkProgramming.CheckedChanged += _chkProgramming_CheckedChanged1; 
 			_chkEnglishLanguage.CheckedChanged += _chkProgramming_CheckedChanged1;
 			dataGridView.Columns[4].Width = 120;
@@ -23,9 +25,18 @@ namespace Homework_2_Task1
 
 		}
 
-
-		private void _chkProgramming_CheckedChanged1(object sender, EventArgs e)
+		PrivateFontCollection font;
+		private void fontsProjects()
 		{
+			//Добавляем шрифт из указанного файла в em.Drawing.Text.PrivateFontCollection
+			this.font = new PrivateFontCollection();
+			this.font.AddFontFile("font/Roboto-Bold.ttf");
+
+		}
+
+
+		private void _chkProgramming_CheckedChanged1(object sender, EventArgs e)  //Метод отвечает за отображение уровня компетенций,
+		{                                                                        //в зависимости от того, какая из них выбрана
 			if (_chkProgramming.Checked == true)
 			{
 				_cmbProgrammingLvl.Visible = true;
@@ -53,12 +64,8 @@ namespace Homework_2_Task1
 
 		}
 
-		private void Form1_Load(object sender, EventArgs e)
-		{
 
-		}
-
-		private void _btnRecordData_Click(object sender, EventArgs e)
+		private void _btnRecordData_Click(object sender, EventArgs e)  //Запись данных в таблицу
 		{
 			DialogResult result = MessageBox.Show("Сохранить данные?", "Сохранение", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
 			if(result == DialogResult.Yes)
@@ -82,7 +89,7 @@ namespace Homework_2_Task1
 			}
 		}
 
-		private void _txtEnterName_KeyPress(object sender, KeyPressEventArgs e)
+		private void _txtEnterName_KeyPress(object sender, KeyPressEventArgs e)  //Так называемая защита от дурака (Имя)
 		{
 			if (!Char.IsLetter(e.KeyChar) && e.KeyChar != 8 && e.KeyChar != 127)
 			{
@@ -90,7 +97,7 @@ namespace Homework_2_Task1
 			}
 		}
 
-		private void _txtEnterSurname_KeyPress(object sender, KeyPressEventArgs e)
+		private void _txtEnterSurname_KeyPress(object sender, KeyPressEventArgs e)  //То же самое, но для ввода фамилии
 		{
 			if(!Char.IsLetter(e.KeyChar) && e.KeyChar != 8 && e.KeyChar != 127)
 			{
