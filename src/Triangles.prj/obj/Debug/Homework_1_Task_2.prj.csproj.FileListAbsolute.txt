@@ -1,0 +1,7 @@
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\bin\Debug\Homework_1_Task_2.exe.config
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\bin\Debug\Homework_1_Task_2.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\bin\Debug\Homework_1_Task_2.pdb
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\obj\Debug\Homework_1_Task_2.prj.csprojAssemblyReference.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\obj\Debug\Homework_1_Task_2.prj.csproj.CoreCompileInputs.cache
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\obj\Debug\Homework_1_Task_2.exe
+C:\Users\vjkjr\Desktop\Mallenom\Интенсив13недель\repositories\Homework_2\src\Triangles.prj\obj\Debug\Homework_1_Task_2.pdb

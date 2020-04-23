@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2_Task1", "Homewor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "winforms.prj\WinForms.csproj", "{AC2DFFDB-C767-46B8-8A43-8FE4D87334F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_1_Task_2.prj", "Triangles.prj\Homework_1_Task_2.prj.csproj", "{CADDD972-DAF7-46A3-AE2C-1EB40800C71B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AC2DFFDB-C767-46B8-8A43-8FE4D87334F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC2DFFDB-C767-46B8-8A43-8FE4D87334F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC2DFFDB-C767-46B8-8A43-8FE4D87334F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADDD972-DAF7-46A3-AE2C-1EB40800C71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADDD972-DAF7-46A3-AE2C-1EB40800C71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADDD972-DAF7-46A3-AE2C-1EB40800C71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADDD972-DAF7-46A3-AE2C-1EB40800C71B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
